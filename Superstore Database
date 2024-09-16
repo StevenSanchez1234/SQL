@@ -45,4 +45,4 @@ WHERE category = 'Kitchen Supplies';
 -- statistic about the average rating of Smart LED TV
 SELECT average_rating
 FROM superstore
-WHERE item_name = 'Smart LED TV'
+WHERE item_name = 'Smart LED TV';
